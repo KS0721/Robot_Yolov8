@@ -1,0 +1,4 @@
+train: D:/Users/Users/Python/Robot_Yolo/declaration/image
+val: D:/Users/Users/Python/Robot_Yolo/declaration/image
+nc: 1
+names: ['»ﬁ∏”≥Î¿ÃµÂ']
