@@ -45,7 +45,13 @@ ser.write(bytearray(packet_buff))
 
 ### 3. 실행
 
-#### ⚠️ 코드를 수정해서 다시 올리겠습니다.
+![image](https://github.com/user-attachments/assets/6602348e-c86b-4ab9-a6b7-abd296e9bad3)
+
+
+
+
+
+https://github.com/user-attachments/assets/1ab48dc2-5bf2-458f-a454-232b879aaec3
 
 
 
