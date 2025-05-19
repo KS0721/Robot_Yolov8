@@ -29,7 +29,7 @@ USB 동글을 연결했는데도 COM 포트가 보이지 않거나 인식되지 
 
 <img src="https://github.com/user-attachments/assets/1ea3f6ba-b40f-4f24-af90-384bd909ae40" width="800" height="500">
 
-### 2. 🧠 주요 코드 설명
+## 2. 🧠 주요 코드 설명
 
 #### 1) 객체 감지 및 자동 모션 트리거
 ```
@@ -43,15 +43,17 @@ ser = serial.Serial(self.selected_port, 115200, timeout=1)
 ser.write(bytearray(packet_buff))
 ```
 
-### 3. 실행
+## 🎬 시연 영상
+
+### 휴머노이드를 감지했을 때, 로봇이 손을 흔드는 동작을 실행하는 모습입니다.
+
+https://github.com/user-attachments/assets/1ab48dc2-5bf2-458f-a454-232b879aaec3
 
 ![image](https://github.com/user-attachments/assets/6602348e-c86b-4ab9-a6b7-abd296e9bad3)
 
 
-
-
-
-https://github.com/user-attachments/assets/1ab48dc2-5bf2-458f-a454-232b879aaec3
+### 📦 실행 파일 다운로드 
+### [📥 Robot_Yolov8 다운로드](https://drive.google.com/file/d/1IHyVDWhgZI52Vx0wfrtnEuemE9UvhGPe/view?usp=sharing)
 
 
 
