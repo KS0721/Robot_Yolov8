@@ -33,7 +33,7 @@ USB 동글을 연결했는데도 COM 포트가 보이지 않거나 인식되지 
 
 #### 1) 객체 감지 및 자동 모션 트리거
 ```
-if class_name == "휴머노이드" and self.motion_ready:
+if class_name == "smoke" and self.motion_ready:
     self.exeHumanoidMotion(19)
 ```
 #### 2) 시리얼 통신으로 모션 전송
