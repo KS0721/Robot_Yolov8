@@ -53,7 +53,8 @@ https://github.com/user-attachments/assets/1ab48dc2-5bf2-458f-a454-232b879aaec3
 
 
 ### 📦 실행 파일 다운로드 
-### [📥 Robot_Yolov8 다운로드](https://drive.google.com/file/d/1IHyVDWhgZI52Vx0wfrtnEuemE9UvhGPe/view?usp=sharing)
+
+
 
 
 
